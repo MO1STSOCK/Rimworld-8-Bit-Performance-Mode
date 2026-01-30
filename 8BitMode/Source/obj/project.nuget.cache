@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fdyg6SgEBZ8=",
+  "success": true,
+  "projectFilePath": "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/8BitMode.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
