@@ -1,11 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>RimWorld 8-Bit Performance Mode</name>
-  <author>YourName</author>
-  <packageId>yourname.8bitperformancemode</packageId>
-  <description>Mod for RimWorld that sacrifices the majority of graphics in order to run on really low end/budget devices.</description>
+  <name>8‑Bit Performance Mode</name>
+  <author>YewChicken</author>
+  <packageId>YewChicken.8BitPerformanceMode</packageId>
   <supportedVersions>
     <li>1.5</li>
-    <li>1.4</li>
-    <li>1.3</li>
   </supportedVersions>
+  <description>
+    Turns RimWorld into a retro, ultra‑low‑graphics mode designed for players on low‑end or budget devices.
+    This mod procedurally downscales world textures, reduces color depth, and simplifies visuals to dramatically
+    improve performance while giving the game a chunky 8‑bit aesthetic. UI textures remain untouched for clarity.
+  </description>
 </ModMetaData>

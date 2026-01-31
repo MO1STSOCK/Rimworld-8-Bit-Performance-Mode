@@ -1,0 +1,11 @@
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.csproj.AssemblyReference.cache
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.AssemblyInfoInputs.cache
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.AssemblyInfo.cs
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.csproj.CoreCompileInputs.cache
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.sourcelink.json
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Assemblies/net472/UltraPerformanceMode.dll
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Assemblies/net472/UltraPerformanceMode.pdb
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPer.930B198A.Up2Date
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.dll
+/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/Debug/net472/UltraPerformanceMode.pdb

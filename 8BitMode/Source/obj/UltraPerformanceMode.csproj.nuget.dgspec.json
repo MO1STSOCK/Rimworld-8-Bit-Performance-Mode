@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/8BitMode.csproj": {}
+    "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/UltraPerformanceMode.csproj": {}
   },
   "projects": {
-    "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/8BitMode.csproj": {
+    "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/UltraPerformanceMode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/8BitMode.csproj",
-        "projectName": "8BitMode",
-        "projectPath": "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/8BitMode.csproj",
+        "projectUniqueName": "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/UltraPerformanceMode.csproj",
+        "projectName": "UltraPerformanceMode",
+        "projectPath": "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/UltraPerformanceMode.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
         "outputPath": "/workspaces/Rimworld-8-Bit-Performance-Mode/8BitMode/Source/obj/",
         "projectStyle": "PackageReference",
@@ -17,14 +17,14 @@
           "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net48"
+          "net472"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net48": {
-            "targetAlias": "net48",
+          "net472": {
+            "targetAlias": "net472",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net48": {
-          "targetAlias": "net48",
+        "net472": {
+          "targetAlias": "net472",
           "dependencies": {
             "Microsoft.NETFramework.ReferenceAssemblies": {
               "suppressParent": "All",
